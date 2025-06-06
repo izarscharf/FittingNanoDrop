@@ -143,7 +143,7 @@ for (sample in sample_cols) {
   
   plots[[sample]] <- result$plot
   print(result$plot)
-  ggsave(paste0(sample, "_fit_plot.pdf"), plot = mean_plot, width = 8, height = 5, dpi = 300)
+  ggsave(paste0(sample, "_fit_plot.pdf"), plot = result$plot, width = 8, height = 5, dpi = 300)
   
 }
 
