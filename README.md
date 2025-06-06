@@ -41,9 +41,13 @@ Running the script produces:
 No plots are included in the repo; instead, they repoduceable with the included excel file
 
 ---
+## License
 
-## 🔧 How to Use
+This project is licensed under the [MIT License](LICENSE) — you are free to use, share, and adapt the code with attribution.
 
-1. Clone this repository:
+## 🔧 Clone this repository:
    ```bash
    git clone https://github.com/yourusername/NanoDropPurityFit.git
+
+
+
