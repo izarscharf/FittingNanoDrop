@@ -1,7 +1,7 @@
 # NanoDrop Chromatography Fitting and Purity Analysis
 
 This repository contains the R code and input data used to perform chromatographic trace fitting and purity estimation in our paper:
-"Quick and Easy: purification of protein-conjugated DNA nanostructures"
+"A facile and reproducible method for the purification of peptide- and protein-functionalized DNA nanostructures "
 
 ---
 
