@@ -43,7 +43,7 @@ No plots are included in the repo; instead, they repoduceable with the included 
 
 ---
 ## AI Disclosure:
-The code was paritially created with the assistance of LLMs
+The code was written with the assistance of LLMs
 ## License
 
 This project is licensed under the [MIT License](LICENSE) — you are free to use, share, and adapt the code with attribution.
