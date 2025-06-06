@@ -19,7 +19,8 @@ We model NanoDrop-based elution profiles using a **sum of two log-normal probabi
 
 | File | Description |
 |------|-------------|
-| `NanoDrop_Nanostructures.xlsx` | Input data file (wide format) with elution volume (`mL`) and sample traces |
+| `NanoDrop_Nanostructures.xlsx` | Input data file  Elution Volume + Samples |
+| `Fitted_NanoDrop_Summary.csv` | Output data file  Elution Volume + Samples + Purities|
 | `Automated_fitting_purity_resolution_script.rmd` | Main R script for fitting, purity calculation, and plotting |
 | `README.md` | |
 
